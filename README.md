@@ -1,4 +1,8 @@
-## Hi there 👋
+<Welcome to my GitHub direction="left" scrollamount="5">
+  <img src="https://demolab.com..." alt="Rainbow Welcome to my GitHub" />
+</Welcome to my GitHub>
+
+
 
 <!--
 **Kai0ozkevf/Kai0ozkevf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
